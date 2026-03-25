@@ -4,7 +4,7 @@ import request
 app = Flask(__name__)
 
 # 👉 改成你的 Channel Access Token
-LINE_TOKEN = "EAAxxxxxxxxxxxxx"
+LINE_TOKEN = "6wzu9i1QjwnTVHXiR1LYTAbOTuqL4RSo8+wFRMPO7Utp3U9gcu51543S5H1ibvwIhiTUuyP4vs1hhFBJAYOY2UqMp+g3fBIi4FPL2BhZ+dDxM1SoVOkfrAYlKd/2zXliDyZomtwu9VbOyi2wZhrG9AdB04t89/1O/w1cDnyilFU="
 
 # 用來記錄使用者進度
 user_state = {}
